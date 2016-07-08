@@ -1,0 +1,1 @@
+iTerm with ShellIntegration
