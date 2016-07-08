@@ -14,5 +14,6 @@ install:
   - export PATH=$HOME/.local/bin:$PATH
   - pip install -r ./requirements.txt
 
+after_install:
 # command to run tests
-script: ./vodostanje
+  script: ./vodostanje
